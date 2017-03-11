@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: b8f9b29d175f0e440b181af7183ad10c
+timeCreated: 1464635262
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARECA_PALM_02
+    100004: ARECA_PALM_0202
+    100006: ARECA_PALM_0203
+    100008: ARECA_PALM_0204
+    100010: ARECA_PALM_0205
+    100012: ARECA_PALM_0206
+    100014: ARECA_PALM_0207
+    100016: ARECA_PALM_0208
+    100018: ARECA_PALM_0209
+    100020: mud
+    100022: Pot
+    400000: //RootNode
+    400002: ARECA_PALM_02
+    400004: ARECA_PALM_0202
+    400006: ARECA_PALM_0203
+    400008: ARECA_PALM_0204
+    400010: ARECA_PALM_0205
+    400012: ARECA_PALM_0206
+    400014: ARECA_PALM_0207
+    400016: ARECA_PALM_0208
+    400018: ARECA_PALM_0209
+    400020: mud
+    400022: Pot
+    2300000: ARECA_PALM_02
+    2300002: ARECA_PALM_0202
+    2300004: ARECA_PALM_0203
+    2300006: ARECA_PALM_0204
+    2300008: ARECA_PALM_0205
+    2300010: ARECA_PALM_0206
+    2300012: ARECA_PALM_0207
+    2300014: ARECA_PALM_0208
+    2300016: ARECA_PALM_0209
+    2300018: mud
+    2300020: Pot
+    3300000: ARECA_PALM_02
+    3300002: ARECA_PALM_0202
+    3300004: ARECA_PALM_0203
+    3300006: ARECA_PALM_0204
+    3300008: ARECA_PALM_0205
+    3300010: ARECA_PALM_0206
+    3300012: ARECA_PALM_0207
+    3300014: ARECA_PALM_0208
+    3300016: ARECA_PALM_0209
+    3300018: mud
+    3300020: Pot
+    4300000: ARECA_PALM_02
+    4300002: ARECA_PALM_0202
+    4300004: ARECA_PALM_0203
+    4300006: ARECA_PALM_0204
+    4300008: ARECA_PALM_0205
+    4300010: ARECA_PALM_0206
+    4300012: ARECA_PALM_0207
+    4300014: ARECA_PALM_0208
+    4300016: ARECA_PALM_0209
+    4300018: mud
+    4300020: Pot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

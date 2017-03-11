@@ -1,0 +1,38 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.05.2016 00:33:06
+
+newmtl wire_000adsadsa000000
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3500 0.3500 0.3500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\tuto data\3d data\3d high poly data\Archmodels Vol.66-home plants\Low poly\013 Plant\Texture\Archmodels66_dirt_1.jpg
+	map_Kd F:\tuto data\3d data\3d high poly data\Archmodels Vol.66-home plants\Low poly\013 Plant\Texture\Archmodels66_dirt_1.jpg
+
+newmtl wire_000000000
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2985 0.2985 0.2985
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_184228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.7216 0.8941 0.6000
+	Kd 0.7216 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
